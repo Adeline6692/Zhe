@@ -6,6 +6,20 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
+  height: 100%; 
+  background-image: 'IMG0420.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 100%; /* Full height for the body */
+        }
+
+        h1 {
+            color: white;
+            text-align: center;
+            margin-top: 20%; 
+        }
+    </style>
   <img src="IMG0435.png" alt="哲哲的甜點大冒險">
 
 }
