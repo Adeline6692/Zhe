@@ -4,14 +4,13 @@ body {
   font-family: Arial, Serif;
   background-color: #FFFFFF;
   color: #333;
-  margin: 0;
-  padding: 0;
+  margin: 20;
+  padding: 20;
   height: 100%; 
   background-image: 'IMG0420.jpg'); 
   background-size: cover; 
   background-position: center; 
-  background-repeat: no-repeat; 
-  height: 100%; /* Full height for the body */
+  background-repeat: no-repeat;  
         }
 
         h1 {
