@@ -25,12 +25,8 @@ img {
   max-width: 100%;
   height: auto;
   background-size: cover;
-  width: 100%;
-  height: 100%; 
   object-fit: cover; 
   position: absolute; 
-  top: 0;
-  left: 0
   <img src="IMG0420.png" alt="哲哲的甜點大冒險">
 }
 </html>
